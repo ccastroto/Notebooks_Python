@@ -7,3 +7,7 @@ Se añadió las imagenes al repositorio para q se puedan ver en git sin problema
 
 <b>Más notebook </b>:
 Añadir los notebook propios para complementar el repositorio desde los dos lados (clase y casa)</br>
+
+<b> Los capítulos</b>
+
+Meter en el repositorio los notebook de los capítulos creado por el profesor
